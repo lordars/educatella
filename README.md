@@ -1,4 +1,4 @@
-# Educatella :school:
+# Educatella :school: 
 
 Projeto integrador do curso Full Stack Node JS by Digital House que tem como finalidade desenvolver um sistema de administração de uma instituição de ensino.
 
